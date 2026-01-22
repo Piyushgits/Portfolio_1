@@ -5,7 +5,7 @@
   display: flex;
   flex-direction: column;
   gap: 50px;
-  padding-top: 250px;
+  padding-top: 300px;
 }
 .about .row {
   display: flex;
